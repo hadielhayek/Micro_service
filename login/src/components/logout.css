@@ -1,0 +1,10 @@
+.logout{min-width: 200px;
+    padding: 15px 30px;
+    margin-top: 20px;
+    background: rgb(72, 109, 231);
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 10px;
+}
